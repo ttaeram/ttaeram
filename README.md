@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?ttaeram=ttaeram)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ttaeram=anuraghazra&theme=dark&show_icons=true)
 
 
 - 🔭 I’m currently working on ...
