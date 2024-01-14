@@ -1,18 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E0FFFF,100:ADFF2F&height=150&section=header&text=Tae%20Ram&fontSize=40&fontColor=C0C0C0&fontAlignY=25&desc=Welcome%20to%20ttaeram&descSize=15&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E0FFFF,100:ADFF2F&height=150&section=header&text=Tae%20Ram&fontSize=40&fontColor=C0C0C0&fontAlignY=25&desc=Welcome%20to%20ttaeram&descSize=15&descAlignY=50)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fttaeram&count_bg=%23B1F77D&title_bg=%2380FBFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 # Hi there 👋
 
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
-  <a href="https://github.com/$ttaeram">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=$ttaeram&layout=compact&show_icons=$True&show_owner=$True&hide_title=$True&theme=$nord&hide=$none" />
-  </a>
-</p>
-<h3 align="center">💡 My Git Stats 💡</h3>
-<p align="center">
-  <a href="https://github.com/${깃닉네임}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=${깃닉네임}&hide=${가릴항목}&hide_title=${타이틀숨김}&show_icons=${깃아이콘표시}&include_all_commits=${올해말고 전체년도 커밋표기}&theme=${테마}" />
-  </a>
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttaeram&show_icons=true&theme=tokyonight)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=utrm00)](https://solved.ac/utrm00/)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:E0FFFF,100:ADFF2F&height=150&section=footer)
