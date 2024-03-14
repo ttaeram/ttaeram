@@ -3,9 +3,9 @@
 
 
 # My Stats
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttaeram&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttaeram&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ttaeram&theme=dark&locale=ko&mode=weekly)](https://git.io/streak-stats)
+___
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=utrm00)](https://solved.ac/utrm00/)
 
 
