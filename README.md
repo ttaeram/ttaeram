@@ -2,7 +2,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fttaeram&count_bg=%23B1F77D&title_bg=%2380FBFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 
-
 # My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttaeram&show_icons=true&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ttaeram&theme=dark&locale=ko&mode=weekly)](https://git.io/streak-stats)
