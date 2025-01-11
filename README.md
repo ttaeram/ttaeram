@@ -9,7 +9,6 @@
 <a href="https://www.google.com/gmail/about/" target="_blank"><img src="https://img.shields.io/badge/ryu.taeram@gmail.com-EAEAEA?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
 </div>
 
-
 <div align="center">
   <h3>📊 My Stats</h3>
   
