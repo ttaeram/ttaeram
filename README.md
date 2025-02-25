@@ -1,7 +1,4 @@
 <div align="center">
-  
-
-test
   ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=Tae%20Ram&fontSize=40&fontColor=C0C0C0&fontAlign=50&desc=Welcome%20to%20ttaeram&descSize=15&descAlignY=70)
 </div>
 
