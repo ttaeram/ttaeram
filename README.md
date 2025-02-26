@@ -20,7 +20,3 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttaeram&layout=compact)
   
 </div>
-
-<div>
-  test
-</div>
